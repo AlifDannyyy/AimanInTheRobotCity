@@ -1,0 +1,12 @@
+{
+  "name": "Aiman in The Robot City",
+  "short_name": "Aiman in The Robot City",
+  "id": "com.example.platformer",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
